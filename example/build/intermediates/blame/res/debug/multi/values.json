@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\githubRes\\MyApplication\\example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\githubRes\\MyApplication\\example\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 52,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\githubRes\\MyApplication\\example\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 50,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\githubRes\\MyApplication\\example\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 50,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 61,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\githubRes\\MyApplication\\example\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 61,
+                        "endOffset": 268
+                    }
+                }
+            }
+        ]
+    }
+]
